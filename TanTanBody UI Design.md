@@ -12,9 +12,9 @@
 
 (예)
 
-![ex1.png](UI Design/ex1.png)
+![ex1.png](UI_Design/ex1.png)
 
-![ex2.png](UI Design/ex2.png)
+![ex2.png](UI_Design/ex2.png)
 
-![ex3.png](UI Design/ex3.png)
+![ex3.png](UI_Design/ex3.png)
 
