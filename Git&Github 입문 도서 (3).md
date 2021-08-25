@@ -4,29 +4,29 @@
 
 # Github 원격 저장소
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled.png)
+![img3/Untitled.png](img3/Untitled.png)
 
 Github 홈페이지의 Your repositories에 있는 저장소들이 원격저장소다. 
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%201.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%201.png)
+![img3/Untitled%201.png](img3/Untitled%201.png)
 
 ## ★ 직접해보기
 
 ## 원격저장소(Github) 생성하기
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%202.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%202.png)
+![img3/Untitled%202.png](img3/Untitled%202.png)
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%203.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%203.png)
+![img3/Untitled%203.png](img3/Untitled%203.png)
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%204.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%204.png)
+![img3/Untitled%204.png](img3/Untitled%204.png)
 
 ## Github와 연결하기
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%205.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%205.png)
+![img3/Untitled%205.png](img3/Untitled%205.png)
 
 ## Github에 올리기 (push)
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%206.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%206.png)
+![img3/Untitled%206.png](img3/Untitled%206.png)
 
 ## Github에서 내려받기 (pull)
 
@@ -128,7 +128,7 @@ Confirm merge 버튼을 통해 브랜치를 병합합니다.
 
 # Github 설정하기
 
-![Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%207.png](Git&Github%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20(3)%20a58a38b51a6b4d54a3a80845985a6e3b/Untitled%207.png)
+![img3/Untitled%207.png](img3/Untitled%207.png)
 
 ## README 파일 작성하기
 
